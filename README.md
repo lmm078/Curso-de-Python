@@ -2,6 +2,7 @@
 Día 1(14/11/2022)
 
 El primer archivo tiene como objetivo:
+
 -Obtener habilidad en escribir un código básico en Python.
 -Conocer y convertir los tipos de datos en Python.
 -Convertir los datos de un tipo a otro.
@@ -32,3 +33,18 @@ NIVEL AVANZADO:
 El tercer archivo tiene como objetivo:
 -Comprensión de condicionales
 -Ejercicios
+
+DIA 2, 16/11/2022
+
+El primer archivo se trata de funciones:
+ -Teoria de funciones
+ -Invocar una funcion
+ -Argumentos y parámetros
+ -Documentacion
+ -Ejercicios
+
+El segundo archivo se trata de bucles:
+ -for
+ -while
+ -Ejercicios
+ 

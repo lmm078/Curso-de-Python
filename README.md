@@ -1,5 +1,5 @@
 # Curso-de-Python
-Día 1(14/11/2022)
+Día 1
 
 El primer archivo tiene como objetivo:
 
@@ -34,7 +34,7 @@ El tercer archivo tiene como objetivo:
 -Comprensión de condicionales
 -Ejercicios
 
-DIA 2, 16/11/2022
+DIA 2 
 
 El primer archivo se trata de funciones:
  -Teoria de funciones
@@ -48,3 +48,12 @@ El segundo archivo se trata de bucles:
  -while
  -Ejercicios
  
+DIA 3 
+Primer archivo SpaceX
+-GET request a la API de SpaceX
+Segundo archivo SpaceX
+-Análisis exploratorio de los datos y obtener conclusiones.
+
+DIA 4
+Archivo SpaceX
+-Realizar la visualización de datos y análizar los resultados para observar si coinciden con nuestros análisis anteriores.

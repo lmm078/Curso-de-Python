@@ -48,12 +48,18 @@ El segundo archivo se trata de bucles:
  -while
  -Ejercicios
  
-DIA 3 
+DIA 3
+Primer archivo
+-ETL
+Segundo archivo
+-Prophet - Predecir el valor de Bitcoin
+
+DIA 4
 Primer archivo SpaceX
 -GET request a la API de SpaceX
 Segundo archivo SpaceX
 -Análisis exploratorio de los datos y obtener conclusiones.
 
-DIA 4
+DIA 5
 Archivo SpaceX
 -Realizar la visualización de datos y análizar los resultados para observar si coinciden con nuestros análisis anteriores.
